@@ -124,7 +124,7 @@ ___
 git@github.com:MatheusFerreiraL/DesafioDeProgramacaoCapgemini.git
 ```
 
-- Acessar o a pasta `src` e executar as questões.
+- Acessar a pasta `src` e executar as questões.
 
 ## Testes Unitários
 
